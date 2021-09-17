@@ -1,6 +1,6 @@
 ## up206a-aron
 ### Overview
-This repository is purely a _learning endeavor_. I aspire to follow the directions for some assignments as shared with students interested in UP206A. I don't know what will happen, but I hope some learning!
+This repository is purely a **learning endeavor**. I aspire to follow the directions for some assignments as shared with students interested in UP206A. I don't know what will happen, but I hope some learning!
 Objectives:
 * Learn tools associated with coding-based work
   * GitHub
