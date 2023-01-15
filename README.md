@@ -18,3 +18,5 @@ Hello! I'm Aron!
 * Topic: anything that combines environmental data, regional development, and health!
 * Examples: agriculture, water / air / soil, heat, energy and mineral extraction
 * Desired scale: metropolitan area or larger >> neighborhoods
+
+[Github repo for this class](https://github.com/aron-walker/up221-aron)
